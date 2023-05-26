@@ -1,5 +1,6 @@
 ---
 category: chrome
+date: 2023-05-26
 ---
 Chrome ver.113からHTTPヘッダを上書きできるようになったらしい。Local Overridesの一機能というふうに見える。
 
